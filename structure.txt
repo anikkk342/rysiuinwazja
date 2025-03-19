@@ -1,0 +1,15 @@
+Folder PATH listing
+Volume serial number is E07D-BB5D
+C:.
+    audio.mp3
+    bullet.png
+    enemy.png
+    explosion.wav
+    game.py
+    laser.wav
+    player.png
+    requirements.txt
+    structure.txt
+    
+No subfolders exist 
+
